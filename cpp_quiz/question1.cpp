@@ -5,6 +5,10 @@ using namespace std;
 
 int main() {
 
+    // Write a program for a subscription-based video service. 
+    // Read N users and the monthly fee for each user. If fee > 1000 mark the user as “Premium”.
+    // Print total revenue and number of premium users. Use variables, loops, input/output and conditions
+
     int user;
 
     cout<< "Enter total numbers of users: ";
@@ -36,6 +40,7 @@ int main() {
 
 
         
+
 
 
 
